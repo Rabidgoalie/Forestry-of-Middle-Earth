@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forestrylotr",
+  "name": "Forestry of Middle-Earth",
+  "description": "Bridges the worlds of Forestry and The LOTR Mod, introducing regional traders, Middle-earth tree breeding, and custom bee species.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rabidgoalie"],
+  "credits": "The Forge, Forestry, and LOTR Mod development teams. And Google's Gemini AI for all the free help provided to make this mod possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Forestry", "lotr"]
+}
+]

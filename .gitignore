@@ -1,0 +1,36 @@
+# IntelliJ IDEA project files (User-specific and temporary)
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse project files (If team members use Eclipse)
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+nbproject/
+nbbuild/
+dist/
+nbdist/
+
+# Java build tools (Maven and Gradle)
+target/
+.gradle/
+build/
+
+# Track the Gradle wrapper completely so others can build the project
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Local dependencies and runtime directories
+libs/
+run/
+reference-sources/
+extracted_sources/
+
+# Crash logs and heap dumps
+*.log
+*.hprof

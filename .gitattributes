@@ -1,0 +1,11 @@
+# Handle line endings automatically for all text files
+* text=auto
+
+# Explicitly ensure source files are normalized to Unix (LF) format in the repo
+*.java text eol=lf
+*.gradle text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+# Explicitly ensure Windows scripts keep Windows endings
+*.bat text eol=crlf
